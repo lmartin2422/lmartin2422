@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leonard Martin (@lmartin2422).
-- 👀 I’m interested in growing from a Jr Software Developer to a Sr Software Developer.
-- 🌱 I’m currently learning to become proficient in Full Stack Development.
-- 💞️ I’m looking to collaborate on any full stack projects
+- 👀 I’m interested in growing into a Sr Software Developer.
+- 🌱 I’m currently practicing Full Stack Development projects in Python and Java.
+- 💞️ I’m looking to collaborate on any full stack projects.
 - 📫 Message me at lmartin2422@gmail.com
 
 <!---
