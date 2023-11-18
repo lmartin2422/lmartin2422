@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leonard Martin (@lmartin2422).
-- 👀 I am a Full Stack Software Developer. I am also a RPA Developer and Cybersecurity engineer in training.
-- 🌱 I’m currently practicing RPA projects and Full Stack Development projects using Angular, Typescript, REST APIs, Python, Java, HTML, CSS, and SQL. 
-- I’m looking to grow in my career as a Software Developer as well as collaborating on full stack projects.
+- 👀 I am a Software Security Engineer who also has an interest in Robotic Process Automation Development (RPA Developer)
+- 🌱 I’m currently building Full Stack Development projects using Angular. I am also pursuing a certification in RPA Development.
+- I’m looking to grow in my career as a Software Security Engineer as well as collaborating on full stack projects.
 - 📫 Message me at lmartin2422@gmail.com
 
 <!---
