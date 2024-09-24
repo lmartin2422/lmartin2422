@@ -9,18 +9,27 @@ lmartin2422/lmartin2422 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-FULL STACK PROJECTS
+**FULL STACK PROJECTS** 
  - https://github.com/lmartin2422/AngularPortfolio3
  - https://github.com/lmartin2422/ReactProject
+ - https://github.com/lmartin2422/Notepad_website
 
-PYTHON PROJECTS
+**PYTHON PROJECTS**
 - https://github.com/lmartin2422/PythonScripts
 - https://github.com/lmartin2422/AiCertification
+- https://github.com/lmartin2422/chatGPT
+- https://github.com/lmartin2422/Notepad_website
 
-JAVA PROJECTS
+**JAVA PROJECTS**
+- https://github.com/lmartin2422/100CommonProgramsJAVA
+- https://github.com/lmartin2422/Boy_Polymorphism_Practice
+- https://github.com/lmartin2422/Dog_Inheritance_Practice
+- https://github.com/lmartin2422/Java_Inventory_Manager
+- https://github.com/lmartin2422/ReactProject
 
+**ARTIFICIAL INTELLIGENCE PROJECTS**
+- https://github.com/lmartin2422/AiCertification
+- https://github.com/lmartin2422/chatGPT
 
-ARTIFICIAL INTELLIGENCE PROJECTS
-
-
-CYBERSECURITY PROJECTS
+**CYBERSECURITY PROJECTS**
+https://github.com/lmartin2422/Cyber
