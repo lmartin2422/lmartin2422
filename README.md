@@ -14,7 +14,7 @@ FULL STACK PROJECTS
  - https://github.com/lmartin2422/ReactProject
 
 PYTHON PROJECTS
-
+- https://github.com/lmartin2422/PythonScripts
 
 JAVA PROJECTS
 
