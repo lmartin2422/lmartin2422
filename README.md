@@ -15,6 +15,7 @@ FULL STACK PROJECTS
 
 PYTHON PROJECTS
 - https://github.com/lmartin2422/PythonScripts
+- https://github.com/lmartin2422/AiCertification
 
 JAVA PROJECTS
 
