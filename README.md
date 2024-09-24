@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leonard Martin (@lmartin2422).
-- 👀 I am a CyberSecurity Engineer, Software Developer, and Automation Developer (RPA).
-- 🌱 I have a Comptia Security+ certification and Bachelor's degree in Software Development & Security.
-- 💻 I am currently doing a plethora of CyberSecurity projects such building SIEM logs, Packet Sniffers etc.  I also build Full Stack Software projects using Angular, React, Python, Java, Javascript.
+- 👀 I am a Software Developer, CyberSecurity Engineer, Automation Developer (RPA), and AI Engineer.
+- 🌱 Comptia Security+ certification, Artificial Intelligence Certification, and a Bachelor's degree in Software Development & Security.
+- 💻 I am currently doing Python Coding Challenges, Java Coding Challenges, AI programs, and Cybersecurity exercises.
 - 📫 Message me at lmartin2422@gmail.com
 
 <!---
