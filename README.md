@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonard Martin (@lmartin2422).
-- 🤓 I am a Software Developer, CyberSecurity Engineer, Automation Developer (RPA), and AI Engineer.
+- 🤓 Full-Stack Software Developer, Automation Developer/RPA Engineer, Jr CyberSecurity Engineer, and Jr AI Engineer.
 - 🏆 Comptia Security+ Certification, Artificial Intelligence Certification, and a Bachelor's in Software Development & Security.
 - 💻 I am currently doing Python Coding Challenges, Java Coding Challenges, AI programs, and Cybersecurity exercises.
 - 📫 Message me at lmartin2422@gmail.com
